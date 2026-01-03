@@ -1,3 +1,6 @@
 ultralytics
 opencv-python
 numpy
+easyocr
+torchvision
+torch
